@@ -1,2 +1,3 @@
-# Multimodal-Deep-Q-Network-for-Social-Human-Robot-Interaction
-For robots to coexist with humans in a social world like ours, it is crucial that they possess human-like social interaction skills. Programming a robot to possess such skills is a challenging task. In this project, I propose a Multimodal Deep Q-Network (MDQN) to enable a robot to learn human-like interaction skills through a trial and error method. This work aims to develop a robot that gathers data during its interaction with a human, and learns human-like interaction behavior from the high dimensional sensory information using end-to-end reinforcement learning. This project also demonstrates that the robot was able to learn basic interaction skills successfully, after 14 days of interacting with people.
+# Robot gains social intelligence through Multimodal Deep Reinforcement Learning
+
+Publication: Ahmed Hussain Qureshi, Yutaka Nakamura, Yuichiro Yoshikawa and Hiroshi Ishiguro, "Robot gains social intelligence through Multimodal Deep Reinforcement Learning", Proceedings of IEEE-RAS International Conference on Humanoid Robots (Humanoids), pp. 745-751, Cancun, Mexico 2016.
